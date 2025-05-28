@@ -19,9 +19,13 @@
               "listado-equipo",
               "fotos",
               "guias"
-              
             ]
           }
         ]
+      },
+      "footer": {
+        "socials": {
+          "website": "https://www.algo.com"
       }
+    }
 }
